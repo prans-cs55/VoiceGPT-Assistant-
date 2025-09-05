@@ -28,16 +28,7 @@ Speech Services: IBM Watson STT & TTS (via REST APIs)
 
 Deployment: Docker
 
-📂 Project Structure
-chatapp-with-voice-and-openai-outline/
-│── server.py          # Flask backend server
-│── worker.py          # Handles STT, TTS, and GPT calls
-│── templates/
-│   └── index.html     # Frontend UI
-│── static/            # JS, CSS, assets
-│── requirements.txt   # Python dependencies
-│── Dockerfile         # Container setup
-│── README.md          # Project documentation
+<img width="2820" height="1511" alt="image" src="https://github.com/user-attachments/assets/437c465d-3982-4a39-b6b9-d5dd8013fc33" />
 
 ⚙️ Installation
 1. Clone Repo
